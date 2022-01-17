@@ -30,7 +30,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Mappy](https://en.mappy.com)
 * [HERE WeGo](https://wego.here.com)
 
-### Country-specific
+### Country-specific Maps
 #### United States
 * [Critical Infrastructure Map](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/)
 * [NOAA: Data Access Viewer](https://coast.noaa.gov/dataviewer/#/landcover/search/)
@@ -105,16 +105,29 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [AIS Marine Traffic](https://www.marinetraffic.com/en/ais/home/)
 * [VesselFinder](https://www.vesselfinder.com/)
 * [Maritime Awareness Project](https://map.nbr.org/interactivemap/)
+* [Container Tracker](http://container-tracking.org)
+* [Submarine Tracking Map](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map)
+* [Voyage Finder](https://www.cma-cgm.com/ebusiness/schedules/voyage)
+* [Online Container & Freight Tracking System – Searates.com](https://www.searates.com/container/tracking/)
 
 ### Planes
 * [ADS-B Exchange](https://globe.adsbexchange.com/)
 * [Flightradar24](https://www.flightradar24.com/)
+* [SkyVector: Flight Planning / Aeronautical Charts](https://skyvector.com/?ll=48.21,2.28&chart=301&zoom=6)
 
 ### Transport
 * [OpenRailwayMap](https://www.openrailwaymap.org/)
 * [Maps for Mobility | geOps](https://mobility.portal.geops.io/)
 * [Wikiroutes](https://wikiroutes.info/)
+* [Amtrack Status Maps](https://juckins.net/amtrak_status/archive/html/history.php)
+* [Station maps for stations in Europe](https://www.nsinternational.com/en/stations/station-maps-floor-plan)
+
+### Route Planning
 * [Strava Global Heatmap](https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/all)
+* [Find bicycle tracks and map rides, Cycle route planner, GPS | Bikemap - Your bike routes](https://www.bikemap.net)
+* [Runmap - Your running routes online](http://www.runmap.net/en/?tab=new#/z15/55.7522011,37.6156006/terrain)
+* [Wandermap - Your hiking routes online](http://www.wandermap.net/en/?tab=new#/z15/55.7522011,37.6156006/terrain)
+* [Паровозики](https://rasp.yandex.ru/map/trains/#center=37.63999999999997%2C55.75999999999371,zoom=5)
 
 ### Webcams
 * [Deckchair TV](https://tv.deckchair.com)
@@ -131,6 +144,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Wildfires](https://khaledalshamaa.users.earthengine.app/view/wildfires)
 * [Windy: Wind map & weather forecast](https://www.windy.com/?55.665,12.568,5)
 * [Global Forest Watch](https://www.globalforestwatch.org/map/)
+* [Ventusky](https://www.ventusky.com/48.21;2.28)
 
 ## Astronomy & Space
 * [Astrometry.net](http://nova.astrometry.net/upload)
