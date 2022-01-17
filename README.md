@@ -30,7 +30,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Mappy](https://en.mappy.com)
 * [HERE WeGo](https://wego.here.com)
 
-### Country-specific Maps
+### Country-specific
 #### United States
 * [Critical Infrastructure Map](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/)
 * [NOAA: Data Access Viewer](https://coast.noaa.gov/dataviewer/#/landcover/search/)
