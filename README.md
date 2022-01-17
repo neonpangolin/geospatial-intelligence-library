@@ -1,6 +1,4 @@
-# Geospatial-Intelligence-Handbook
-🛰 Your geospatial intelligence tool belt for digital investigations
-
+# The Geospatial Intelligence Handbook
 ## Satellite Imagery
 * [Sentinel Playground | Sentinel Hub](https://apps.sentinel-hub.com/sentinel-playground/)
 * [Sentinel EO Browser](https://apps.sentinel-hub.com/eo-browser/)
