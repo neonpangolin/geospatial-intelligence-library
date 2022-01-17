@@ -1,4 +1,4 @@
-# The Geospatial Intelligence Handbook
+# Geospatial Intelligence Library
 
 This repository contains a curated list of open source intelligence tools and resources focused on geolocation and chronolocation.
 A bookmark version of the most recent iteration of the following recourses is also available.
