@@ -1,5 +1,8 @@
 # The Geospatial Intelligence Handbook
 
+This repository contains a curated list of open source intelligence tools and resources focused on geolocation and chronolocation.
+A bookmark version of the most recent iteration of the following recourses is also available.
+
 ## Satellite Imagery
 * [Sentinel Playground | Sentinel Hub](https://apps.sentinel-hub.com/sentinel-playground/)
 * [Sentinel EO Browser](https://apps.sentinel-hub.com/eo-browser/)
@@ -194,17 +197,3 @@
 
 ## Experimental Features
 * [What3Words](https://map.what3words.com/pages.explores.reaction)
-
-## Github Tools
-* [GeolocateThis](https://github.com/musafir-py/geolocatethis)
-* [GitHub - dessant/search-by-image: Browser extension for reverse image search, available for Chrome, Edge and Safari](https://github.com/dessant/search-by-image)
-* [GitHub - jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint#-file-search)
-* 
-## Other Recourses 
-* [IMINT VI - start.me](https://start.me/p/ZMXLlA/imint-vi)
-* https://start.me/p/1kwrG
-* [GeoTips – Tips and tricks for Geoguessr](https://geotips.net)
-### Logos
-* [Metro Logos - metrobits.org](http://mic-ro.com/metro/metrologos.html)
-### License Plates
-* [License Plates of the World](http://www.worldlicenseplates.com/)
