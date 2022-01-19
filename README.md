@@ -73,6 +73,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Länsstyrelsen - Länskartan](https://ext-geoportal.lansstyrelsen.se/standard)
 * [Naturvårdsverket - Skyddad natur](https://skyddadnatur.naturvardsverket.se)
 * [Sjöfartsverket - Sjökort](https://geokatalog.sjofartsverket.se/kartvisarefyren)
+* [Vatteninformationssystem Sverige - Vattenkartan](https://ext-geoportal.lansstyrelsen.se/standard/?appid=1589fd5a099a4e309035beb900d12399)
 #### Germany
 * [ Germany Airfield Database](https://ulforum.de/flugplatzliste)
 #### Switzerland
