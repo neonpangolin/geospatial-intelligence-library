@@ -65,6 +65,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Norge I bilder](https://www.norgeibilder.no/)
 #### Sweden
 * [Hitta.se | Privatpersoner och Företag i Sverige](https://www.hitta.se)
+* [Lantmäteriet - Min Karta](https://minkarta.lantmateriet.se)
 #### Germany
 * [ Germany Airfield Database](https://ulforum.de/flugplatzliste)
 #### Switzerland
