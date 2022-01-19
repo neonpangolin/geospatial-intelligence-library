@@ -69,6 +69,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Hitta.se | Privatpersoner och Företag i Sverige](https://www.hitta.se)
 * [Lantmäteriet - Min Karta|Karta, Fastighetsgränser, Flygfoto, Historiska flygfoton](https://minkarta.lantmateriet.se)
 * [Lantmäteriet - Historiska Kartor](https://historiskakartor.lantmateriet.se)
+* [Sjöfartsverket - Sjökort](https://geokatalog.sjofartsverket.se/kartvisarefyren)
 #### Germany
 * [ Germany Airfield Database](https://ulforum.de/flugplatzliste)
 #### Switzerland
