@@ -71,6 +71,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Kartrummet - maps scanned by Stockholm University](https://kartavdelningen.sub.su.se/kartrummet)
 * [Lantmäteriet - Min Karta | Karta, Fastighetsgränser, Flygfoto, Historiska flygfoton](https://minkarta.lantmateriet.se)
 * [Lantmäteriet - Historiska Kartor](https://historiskakartor.lantmateriet.se)
+* [Lantmäteriet - Sök ortnamn](https://ortnamn.lantmateriet.se)
 * [Länsstyrelsen - Länskartan](https://ext-geoportal.lansstyrelsen.se/standard)
 * [Naturvårdsverket - Skyddad natur](https://skyddadnatur.naturvardsverket.se)
 * [Riksantikvarieämbetet - Fornsök](https://app.raa.se/open/fornsok)
