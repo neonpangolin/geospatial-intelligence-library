@@ -75,6 +75,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Naturvårdsverket - Skyddad natur](https://skyddadnatur.naturvardsverket.se)
 * [Riksantikvarieämbetet - Fornsök](https://app.raa.se/open/fornsok)
 * [Sjöfartsverket - Sjökort](https://geokatalog.sjofartsverket.se/kartvisarefyren)
+* [Stockholmskällan - historic maps of Stockholm](https://stockholmskallan.stockholm.se/sok/?q=&map=true&alternatemap=true)
 * [Vatteninformationssystem Sverige - Vattenkartan](https://ext-geoportal.lansstyrelsen.se/standard/?appid=1589fd5a099a4e309035beb900d12399)
 #### Germany
 * [ Germany Airfield Database](https://ulforum.de/flugplatzliste)
