@@ -71,6 +71,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Lantmäteriet - Min Karta|Karta, Fastighetsgränser, Flygfoto, Historiska flygfoton](https://minkarta.lantmateriet.se)
 * [Lantmäteriet - Historiska Kartor](https://historiskakartor.lantmateriet.se)
 * [Länsstyrelsen - Länskartan](https://ext-geoportal.lansstyrelsen.se/standard)
+* [Naturvårdsverket - Skyddad natur](https://skyddadnatur.naturvardsverket.se)
 * [Sjöfartsverket - Sjökort](https://geokatalog.sjofartsverket.se/kartvisarefyren)
 #### Germany
 * [ Germany Airfield Database](https://ulforum.de/flugplatzliste)
