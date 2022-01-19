@@ -64,6 +64,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 #### Norway
 * [Norge I bilder](https://www.norgeibilder.no/)
 #### Sweden
+* [Eniro.se - Karta, Flygfoto, Sjökort, Historiska flygfoton](https://kartor.eniro.se)
 * [Hitta.se | Privatpersoner och Företag i Sverige](https://www.hitta.se)
 * [Lantmäteriet - Min Karta](https://minkarta.lantmateriet.se)
 * [Lantmäteriet - Historiska Kartor](https://historiskakartor.lantmateriet.se)
