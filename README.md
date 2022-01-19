@@ -64,7 +64,20 @@ A bookmark version of the most recent iteration of the following recourses is al
 #### Norway
 * [Norge I bilder](https://www.norgeibilder.no/)
 #### Sweden
+* [Eniro.se - Karta, Flygfoto, Sjökort, Historiska flygfoton](https://kartor.eniro.se)
+* [Geological Survey of Sweden - Maps](https://www.sgu.se/en/products/maps)
 * [Hitta.se | Privatpersoner och Företag i Sverige](https://www.hitta.se)
+* [Kartbild.com - multiple different layers](https://kartbild.com)
+* [Kartrummet - maps scanned by Stockholm University](https://kartavdelningen.sub.su.se/kartrummet)
+* [Lantmäteriet - Min Karta | Karta, Fastighetsgränser, Flygfoto, Historiska flygfoton](https://minkarta.lantmateriet.se)
+* [Lantmäteriet - Historiska Kartor](https://historiskakartor.lantmateriet.se)
+* [Lantmäteriet - Sök ortnamn](https://ortnamn.lantmateriet.se)
+* [Länsstyrelsen - Länskartan](https://ext-geoportal.lansstyrelsen.se/standard)
+* [Naturvårdsverket - Skyddad natur](https://skyddadnatur.naturvardsverket.se)
+* [Riksantikvarieämbetet - Fornsök](https://app.raa.se/open/fornsok)
+* [Sjöfartsverket - Sjökort](https://geokatalog.sjofartsverket.se/kartvisarefyren)
+* [Stockholmskällan - historic maps of Stockholm](https://stockholmskallan.stockholm.se/sok/?q=&map=true&alternatemap=true)
+* [Vatteninformationssystem Sverige - Vattenkartan](https://ext-geoportal.lansstyrelsen.se/standard/?appid=1589fd5a099a4e309035beb900d12399)
 #### Germany
 * [ Germany Airfield Database](https://ulforum.de/flugplatzliste)
 #### Switzerland
