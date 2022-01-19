@@ -67,6 +67,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Eniro.se - Karta, Flygfoto, Sjökort, Historiska flygfoton](https://kartor.eniro.se)
 * [Geological Survey of Sweden - Maps](https://www.sgu.se/en/products/maps)
 * [Hitta.se | Privatpersoner och Företag i Sverige](https://www.hitta.se)
+* [Kartbild.com - multiple different layers](https://kartbild.com)
 * [Lantmäteriet - Min Karta|Karta, Fastighetsgränser, Flygfoto, Historiska flygfoton](https://minkarta.lantmateriet.se)
 * [Lantmäteriet - Historiska Kartor](https://historiskakartor.lantmateriet.se)
 * [Sjöfartsverket - Sjökort](https://geokatalog.sjofartsverket.se/kartvisarefyren)
