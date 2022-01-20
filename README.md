@@ -65,6 +65,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 #### Norway
 * [Gulesider.no](https://kart.gulesider.no)
 * [Norge i bilder](https://www.norgeibilder.no/)
+* [kart.1881.no](https://kart.1881.no)
 * [kart.ssb.no](https://kart.ssb.no)
 #### Sweden
 * [Eniro.se - Karta, Flygfoto, Sjökort, Historiska flygfoton](https://kartor.eniro.se)
