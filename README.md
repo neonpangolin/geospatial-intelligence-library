@@ -82,6 +82,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [posten.no/kart](https://www.posten.no/kart)
 * [elvia.no/strombruddskart - Electricity blackouts](https://www.elvia.no/strombruddskart/)
 * [toposvalbard.npolar.no](https://toposvalbard.npolar.no)
+* [tronderenerginett.no/stromstans_ten - Electricty blackouts](https://geoservices.tronderenerginett.no/stromstans_ten/)
 * [ut.no/kart](https://ut.no/kart)
 * [vegkart.atlas.vegvesen.no](https://vegkart.atlas.vegvesen.no)
 #### Sweden
