@@ -69,6 +69,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Norge i bilder](https://www.norgeibilder.no/)
 * [kart.1881.no](https://kart.1881.no)
 * [kart.ssb.no](https://kart.ssb.no)
+* [ladestasjoner.no/kart (EV charging stations)](https://www.ladestasjoner.no/kart)
 * [kommunekart.com](https://kommunekart.com)
 * [norgeskart.no](https://www.norgeskart.no)
 * [ut.no/kart](https://ut.no/kart)
