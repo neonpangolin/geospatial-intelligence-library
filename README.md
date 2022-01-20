@@ -70,6 +70,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [kart.ssb.no](https://kart.ssb.no)
 * [kommunekart.com](https://kommunekart.com)
 * [norgeskart.no](https://www.norgeskart.no)
+* [ut.no/kart](https://ut.no/kart)
 #### Sweden
 * [Eniro.se - Karta, Flygfoto, Sjökort, Historiska flygfoton](https://kartor.eniro.se)
 * [Geological Survey of Sweden - Maps](https://www.sgu.se/en/products/maps)
