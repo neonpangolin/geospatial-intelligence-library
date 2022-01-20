@@ -34,6 +34,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 #### United States
 * [Critical Infrastructure Map](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/)
 * [NOAA: Data Access Viewer](https://coast.noaa.gov/dataviewer/#/landcover/search/)
+* [NOAA: Storm Prediction Center](https://www.spc.noaa.gov)
 * [USGS Earth Explorer](https://earthexplorer.usgs.gov)
 
 ### Asia
