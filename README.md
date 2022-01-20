@@ -63,6 +63,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [LiveUA Map](https://liveuamap.com)
 ### Europe
 #### Norway
+* [kart.dsb.no - Direktoratet for samfunnssikkerhet og beredskap](https://kart.dsb.no)
 * [Gulesider.no](https://kart.gulesider.no)
 * [Norge i bilder](https://www.norgeibilder.no/)
 * [kart.1881.no](https://kart.1881.no)
