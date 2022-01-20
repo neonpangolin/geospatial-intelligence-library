@@ -72,6 +72,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [ladestasjoner.no/kart (EV charging stations)](https://www.ladestasjoner.no/kart)
 * [kommunekart.com](https://kommunekart.com)
 * [norgeskart.no](https://www.norgeskart.no)
+* [toposvalbard.npolar.no](https://toposvalbard.npolar.no)
 * [ut.no/kart](https://ut.no/kart)
 #### Sweden
 * [Eniro.se - Karta, Flygfoto, Sjökort, Historiska flygfoton](https://kartor.eniro.se)
