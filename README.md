@@ -77,6 +77,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [mareano.no/kart](http://mareano.no/kart)
 * [ngu.no/emne/kartinnsyn - Norges Geologiske Undersøkelse](https://www.ngu.no/emne/kartinnsyn)
 * [norgeskart.no](https://www.norgeskart.no)
+* [posten.no/kart](https://www.posten.no/kart)
 * [toposvalbard.npolar.no](https://toposvalbard.npolar.no)
 * [ut.no/kart](https://ut.no/kart)
 * [vegkart.atlas.vegvesen.no](https://vegkart.atlas.vegvesen.no)
