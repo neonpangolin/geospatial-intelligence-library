@@ -78,6 +78,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [ngu.no/emne/kartinnsyn - Norges Geologiske Undersøkelse](https://www.ngu.no/emne/kartinnsyn)
 * [norgeskart.no](https://www.norgeskart.no)
 * [posten.no/kart](https://www.posten.no/kart)
+* [elvia.no/strombruddskart - Electricity blackouts](https://www.elvia.no/strombruddskart/)
 * [toposvalbard.npolar.no](https://toposvalbard.npolar.no)
 * [ut.no/kart](https://ut.no/kart)
 * [vegkart.atlas.vegvesen.no](https://vegkart.atlas.vegvesen.no)
