@@ -74,6 +74,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [kartiskolen.no](https://kartiskolen.no/)
 * [kystverket.no/kystinfo](https://a3.kystverket.no/kystinfo)
 * [ladestasjoner.no/kart (EV charging stations)](https://www.ladestasjoner.no/kart)
+* [kamerakartet.no - Webcams map](https://www.kamerakartet.no/)
 * [kommunekart.com](https://kommunekart.com)
 * [mareano.no/kart](http://mareano.no/kart)
 * [ngu.no/emne/kartinnsyn - Norges Geologiske Undersøkelse](https://www.ngu.no/emne/kartinnsyn)
