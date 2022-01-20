@@ -70,6 +70,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [kart.1881.no](https://kart.1881.no)
 * [kart.barentswatch.no](https://kart.barentswatch.no)
 * [kart.ssb.no](https://kart.ssb.no)
+* [kartiskolen.no](https://kartiskolen.no/)
 * [ladestasjoner.no/kart (EV charging stations)](https://www.ladestasjoner.no/kart)
 * [kommunekart.com](https://kommunekart.com)
 * [mareano.no/kart](http://mareano.no/kart)
