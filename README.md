@@ -67,6 +67,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Norge i bilder](https://www.norgeibilder.no/)
 * [kart.1881.no](https://kart.1881.no)
 * [kart.ssb.no](https://kart.ssb.no)
+* [kommunekart.com](https://kommunekart.com)
 #### Sweden
 * [Eniro.se - Karta, Flygfoto, Sjökort, Historiska flygfoton](https://kartor.eniro.se)
 * [Geological Survey of Sweden - Maps](https://www.sgu.se/en/products/maps)
