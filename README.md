@@ -63,6 +63,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [LiveUA Map](https://liveuamap.com)
 ### Europe
 #### Norway
+* [Gulesider.no](https://kart.gulesider.no)
 * [Norge I bilder](https://www.norgeibilder.no/)
 #### Sweden
 * [Eniro.se - Karta, Flygfoto, Sjökort, Historiska flygfoton](https://kartor.eniro.se)
