@@ -144,11 +144,15 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Submarine Tracking Map](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map)
 * [Voyage Finder](https://www.cma-cgm.com/ebusiness/schedules/voyage)
 * [Online Container & Freight Tracking System – Searates.com](https://www.searates.com/container/tracking/)
+* [Ports](https://ports.com/sea-route/)
+* [Track-Trace](https://www.track-trace.com/container)
 
 ### Planes
 * [ADS-B Exchange](https://globe.adsbexchange.com/)
 * [Flightradar24](https://www.flightradar24.com/)
 * [SkyVector: Flight Planning / Aeronautical Charts](https://skyvector.com/?ll=48.21,2.28&chart=301&zoom=6)
+* [Transtats](https://transtats.bts.gov/ONTIME/)
+* [RZJets](http://rzjets.net/aircraft/)
 
 ### Transport
 * [OpenRailwayMap](https://www.openrailwaymap.org/)
@@ -156,6 +160,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Wikiroutes](https://wikiroutes.info/)
 * [Amtrack Status Maps](https://juckins.net/amtrak_status/archive/html/history.php)
 * [Station maps for stations in Europe](https://www.nsinternational.com/en/stations/station-maps-floor-plan)
+* [Rasp Yandex](https://rasp.yandex.ru/map/trains)
 
 ### Route Planning
 * [Strava Global Heatmap](https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/all)
@@ -172,7 +177,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Surveillance under Surveillance](https://sunders.uber.space/)
 * [Google Webcam Search](https://www.google.com/search?client=ubuntu&channel=fs&q=site%3Ainsecam.org+%22location%22&ie=utf-8&oe=utf-8)
 
-## Weather
+## Weather & Nature
 * [Zoom Earth | LIVE weather, storm tracker, wildfire maps](https://zoom.earth/)
 * [Real Time Lightning Map :: LightningMaps.org](https://www.lightningmaps.org/?lang=en#m=oss;t=3;s=0;o=0;b=;ts=1;y=30.4487;x=-1.9336;z=2;d=2;dl=2;dc=0;ts24=0)
 * [Firesmoke](https://firesmoke.ca/)
@@ -180,6 +185,12 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Windy: Wind map & weather forecast](https://www.windy.com/?55.665,12.568,5)
 * [Global Forest Watch](https://www.globalforestwatch.org/map/)
 * [Ventusky](https://www.ventusky.com/48.21;2.28)
+* [MeteoBlue](https://www.meteoblue.com/)
+* [Rain Alarm](http://rain-alarm.com/)
+* [Wunderground](https://www.wunderground.com/history)
+* [Global Wetlands Map](https://www2.cifor.org/global-wetlands/)
+* [Lightningmaps](https://www.lightningmaps.org/)
+* [National Geologic Map Database](https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4)
 
 ## Astronomy & Space
 * [Astrometry.net](http://nova.astrometry.net/upload)
