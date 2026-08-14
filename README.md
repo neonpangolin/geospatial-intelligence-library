@@ -22,7 +22,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Google Maps](https://www.google.com/maps/)
 * [Yandex Maps](https://yandex.com/maps/)
 * [Bing Maps](https://www.bing.com/maps/)
-* [DualMaps](http://www.dualmaps.com)
+* [DualMaps](https://www.dualmaps.com)
 * [Mapillary](https://www.mapillary.com/)
 * [Kartaview](https://kartaview.org/map)
 * [Oally](https://www.oalley.net/app/)
@@ -227,6 +227,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [SNScrape](https://github.com/bellingcat/snscrape)
 * [Instagram Location Search](https://github.com/bellingcat/instagram-location-search)
 *  [Snap Map](https://map.snapchat.com/)
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ## Translation
 * [Localingual](https://localingual.com/)
