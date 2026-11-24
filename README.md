@@ -217,6 +217,7 @@ A bookmark version of the most recent iteration of the following recourses is al
 * [Hate Map | Southern Poverty Law Center](https://www.splcenter.org/hate-map)
 * [AMBER Alert Map](http://amberalerts.globalincidentmap.com/home.php)
 * [SARveillance](https://share.streamlit.io/mjcruickshank/sarveillance/reorganisation/app/web.py)
+* [H1DR4 Incident Map](https://h1dr4.dev/map) - Public incident map with source information. Police.uk locations are approximate and coverage varies by force.
 
 ## Social Media Monitoring
 * [Social Geo Lens | OSINT Combine](https://www.osintcombine.com/social-geo-lens)
